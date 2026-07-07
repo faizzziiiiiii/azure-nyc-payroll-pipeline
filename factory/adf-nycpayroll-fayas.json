@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll-fayas",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29f76b59-3efd-47a0-bb68-6ad06d1feea0",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
