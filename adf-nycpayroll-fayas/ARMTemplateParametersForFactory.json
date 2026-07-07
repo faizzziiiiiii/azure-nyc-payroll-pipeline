@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-nycpayroll-fayas"
+		},
+		"ls_DataLakeGen2_accountKey": {
+			"value": ""
+		},
+		"ls_SQLDatabase_connectionString": {
+			"value": ""
+		},
+		"ls_DataLakeGen2_properties_typeProperties_url": {
+			"value": "https://adlsnycpayrollfayas.dfs.core.windows.net/"
+		}
+	}
+}
